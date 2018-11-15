@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))**
+* [DocumentView.xaml](./CS/View/DocumentView.xaml) (VB: [DocumentView.xaml](./VB/View/DocumentView.xaml))
+* [PanelView.xaml](./CS/View/PanelView.xaml) (VB: [PanelView.xaml](./VB/View/PanelView.xaml))
+* [DocumentViewModel.cs](./CS/ViewModel/DocumentViewModel.cs) (VB: [DocumentViewModel.vb](./VB/ViewModel/DocumentViewModel.vb))
+* [MainViewModel.cs](./CS/ViewModel/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/ViewModel/MainViewModel.vb))
+* [PanelViewModel.cs](./CS/ViewModel/PanelViewModel.cs) (VB: [PanelViewModel.vb](./VB/ViewModel/PanelViewModel.vb))
+<!-- default file list end -->
 # How to: Build Dock UI According to MVVM Pattern Using IMVVMDockingProperties Interface
 
 
