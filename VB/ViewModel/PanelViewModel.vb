@@ -1,5 +1,4 @@
-Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports DevExpress.Xpf.Docking
@@ -7,13 +6,13 @@ Imports System.Windows.Media
 
 Namespace WpfApplication
 	Public Class PanelViewModel
-        Implements IMVVMDockingProperties
+		Inherits IMVVMDockingProperties
 
 		Public Sub New(ByVal c As Color)
 			_Color = New SolidColorBrush(c)
 		End Sub
 
-		Private Property TargetName() As String Implements IMVVMDockingProperties.TargetName
+		Private Property IMVVMDockingProperties_TargetName() As String Implements IMVVMDockingProperties.TargetName
 			Get
 				Return "DockPanels"
 			End Get
