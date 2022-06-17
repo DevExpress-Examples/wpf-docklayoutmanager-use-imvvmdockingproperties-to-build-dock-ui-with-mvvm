@@ -27,4 +27,4 @@ This example implements the **IMVVMDockingProperties** interface to build a doc
 
 ## More Examples
 
-- [WPF Dock Layout Manager - Use LayoutAdapter to Build a Layout UI with MVVM Pattern](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-use-layoutadapter-to-build-dock-ui-with-mvvm)
+- [WPF Dock Layout Manager - Use LayoutAdapter to Build a Layout UI with the MVVM Pattern](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-use-layoutadapter-to-build-dock-ui-with-mvvm)
